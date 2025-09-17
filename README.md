@@ -1,12 +1,23 @@
-# React + Vite
+Một website xem phim trực tuyến với giao diện hiện đại, hỗ trợ tìm kiếm, xem chi tiết phim, và quản lý danh sách yêu thích.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tính năng
 
-Currently, two official plugins are available:
+🔎 Tìm kiếm phim theo tên, thể loại, hoặc năm phát hành
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📄 Trang chi tiết phim (mô tả, poster, trailer, rating, diễn viên)
 
-## Expanding the ESLint configuration
+❤️ Thêm phim vào danh sách yêu thích
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive UI – hỗ trợ tốt trên cả desktop và mobile
+
+⚡ Hiệu năng cao, tải dữ liệu động qua API
+
+🛠️ Công nghệ sử dụng
+
+Frontend: React / Next.js + Tailwind CSS
+
+Backend: Node.js + Express (hoặc .NET/Flask tuỳ chọn)
+
+Database: MongoDB / MySQL (tùy chọn)
+
+API: The Movie Database (TMDb) API / OMDb API
