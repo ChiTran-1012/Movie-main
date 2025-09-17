@@ -4,7 +4,7 @@ Một website xem phim trực tuyến với giao diện hiện đại, hỗ tr�
 
 🔎 Tìm kiếm phim theo tên, thể loại, hoặc năm phát hành
 
-📄 Trang chi tiết phim (mô tả, poster, trailer, rating, diễn viên)
+📄 Trang chi tiết phim (mô tả, poster, trailer, rating)
 
 ❤️ Thêm phim vào danh sách yêu thích
 
@@ -14,10 +14,6 @@ Một website xem phim trực tuyến với giao diện hiện đại, hỗ tr�
 
 🛠️ Công nghệ sử dụng
 
-Frontend: React / Next.js + Tailwind CSS
+Frontend: React.js + Tailwind CSS
 
-Backend: Node.js + Express (hoặc .NET/Flask tuỳ chọn)
-
-Database: MongoDB / MySQL (tùy chọn)
-
-API: The Movie Database (TMDb) API / OMDb API
+API: The Movie Database (TMDb) API
